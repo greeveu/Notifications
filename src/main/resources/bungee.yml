@@ -1,0 +1,3 @@
+name: Notifications
+version: '${project.version}'
+main: eu.greev.notifications.Notifications
