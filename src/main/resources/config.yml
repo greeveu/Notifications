@@ -1,0 +1,6 @@
+mysql:
+  host: "localhost"
+  username: "foo"
+  passwort: "bar"
+  database: "db"
+  port: 3306

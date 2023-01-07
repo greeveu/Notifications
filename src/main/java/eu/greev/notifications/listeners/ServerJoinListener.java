@@ -23,7 +23,6 @@ public class ServerJoinListener implements Listener {
 
     @EventHandler
     public void onJoin(ServerSwitchEvent event) {
-
         //If from is not null it means the player just switched servers
         if (event.getFrom() != null) {
             return;
